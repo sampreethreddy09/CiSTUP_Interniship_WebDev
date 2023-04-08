@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    padding: 10px;
+    background-color: rgb(201, 243, 243);
+}
+td{
+    height: 48px;
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+
+.tablehead{
+    
+    padding: 24px;
+}
+
+.datarow{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dataset{
+    width: 20%;
+}
+.single{
+    background-color: orange;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+table {
+    
+    width: 100%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+

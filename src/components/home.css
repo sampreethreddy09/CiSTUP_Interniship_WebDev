@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.main{
+    background-color: rgb(201, 243, 243);
+    min-height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+body{
+    padding-top: 0;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(89, 195, 230);
+    border-radius: 5px;
+}
+
+.but{
+    background-color: orange;
+  border: none;
+  color: white;
+  padding: 8px 28px;
+  text-decoration: none;
+  margin: 4px 2px;
+  margin-left: 48%;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+}
+
+.question1, .question2{
+    padding : 12px;
+    font-family: 'Poppins', sans-serif;
+}
+
